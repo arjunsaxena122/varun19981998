@@ -78,6 +78,11 @@ https://github-readme-streak-stats.herokuapp.com/?user=varun19981998
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varun19981998&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+<div>
+    <summary align="left"><h3>🔥 Contribution Graph</h3></summary>
+<br>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=varun19981998&theme=github-compact" />
+</div>
 
 ### :writing_hand: Blog Posts :
 
