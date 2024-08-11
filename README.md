@@ -23,7 +23,7 @@ I'm a passionate web developer with a strong front-end and back-end technologies
 
 Front-End Development: I craft responsive, pixel-perfect user interfaces. HTML, CSS, and JavaScript are my daily companions, and I'm a big fan of modern frameworks like React.js.
 
-Back-End Development: I'm not just about making things look good; I also enjoy working under the hood. I'm proficient in Node.js .java. to build robust and scalable server-side applications.
+Back-End Development: I'm not just about making things look good; I also enjoy working under the hood. I'm proficient in Node.js .java. to build robust and scalable server-side applications.Springboot and hibernate framework
 
 Database Management: Databases are the heart of any dynamic web application. I'm experienced in designing and optimizing databases using MySQL and MongoDB.
 
