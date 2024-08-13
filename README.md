@@ -1,9 +1,8 @@
 # Varun Pratap Singh
 # I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-    <img src="https://www.shutterstock.com/shutterstock/photos/1078387013/display_1500/stock-vector-programming-banner-coding-best-programming-languages-flat-illustration-concept-1078387013.jpg" width="150"/>
-      <img src="https://img.freepik.com/free-vector/programmers-concept-with-flat-design_23-2147857538.jpg?w=740&t=st=1712566232~exp=1712566832~hmac=03e770e14a43c1e41685c1c49b5132a2ee5530f7d1fad48580a27ba290f7eaad" width="150"/>
+  <img src="https://camo.githubusercontent.com/d4fabb7b8a39f04a22b433417f114d04f45a41b49a38b3950e5ab98de5b09d88/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f4334443136415145586a5f666b7853496b52512f70726f66696c652d646973706c61796261636b67726f756e64696d6167652d736872696e6b5f3230305f3830302f302f313632313735373739333330383f653d3231343734383336343726763d6265746126743d6e62527952387450434a4852566668525f4f596f44746d64744650775a7a784e466d752d56736b54537841" width="130%"/>
+
     
    
   
