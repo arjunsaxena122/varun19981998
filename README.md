@@ -84,6 +84,8 @@ https://github-readme-streak-stats.herokuapp.com/?user=varun19981998
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=varun19981998&theme=github-compact" />
 </div>
 
-### :writing_hand: Blog Posts :
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
 
 
