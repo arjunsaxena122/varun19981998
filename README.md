@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=arjunsaxena122&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsaxena122" /> </p>
 # Varun Pratap Singh
 # I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 <div id="header" align="center">
